@@ -1,4 +1,3 @@
-hunajaa
 hunajameloni
 maitoa
 mandariinejä
@@ -16,6 +15,4 @@ saippua
 wc paperi
 talouspaperi
 hammastahna
-maito
-viini
 jäätelöä
