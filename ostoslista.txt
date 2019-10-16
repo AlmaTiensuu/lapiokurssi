@@ -1,5 +1,4 @@
 hunajaa
-munia
 mandariinejä
 appelsiinimehua
 kanaa
@@ -16,4 +15,4 @@ wc paperi
 talouspaperi
 hammastahna
 maito
-parsa
+viini
