@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 hunajaa
-=======
 hunajameloni
 maitoa
->>>>>>> 93925048e929bdf851d95cf0c7a97061095f0f95
 mandariinejä
 appelsiinimehua
 kanaa
@@ -21,3 +18,4 @@ talouspaperi
 hammastahna
 maito
 viini
+jäätelöä
